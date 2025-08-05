@@ -1,0 +1,26 @@
+[
+  {
+    "productName": "GK Master App",
+    "productLink": "https://play.google.com/store/apps/details?id=com.example.gkmaster",
+    "productImage": "https://example.com/images/gkmaster.png",
+    "productSubName": "General Knowledge Preparation"
+  },
+  {
+    "productName": "Math Genius",
+    "productLink": "https://play.google.com/store/apps/details?id=com.example.mathgenius",
+    "productImage": "https://example.com/images/mathgenius.png",
+    "productSubName": "Quantitative Aptitude Booster"
+  },
+  {
+    "productName": "Reasoning Brain",
+    "productLink": "https://play.google.com/store/apps/details?id=com.example.reasoningbrain",
+    "productImage": "https://example.com/images/reasoningbrain.png",
+    "productSubName": "Logical & Verbal Reasoning"
+  },
+  {
+    "productName": "Computer Guide",
+    "productLink": "https://play.google.com/store/apps/details?id=com.example.computerguide",
+    "productImage": "https://example.com/images/computerguide.png",
+    "productSubName": "Basics of Computer Awareness"
+  }
+]
